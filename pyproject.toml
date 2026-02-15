@@ -1,0 +1,14 @@
+[project]
+name = "bbc-news"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "bs4>=0.0.2",
+    "datetime>=6.0",
+    "extract>=1.0",
+    "logging>=0.4.9.6",
+    "pandas>=3.0.0",
+    "requests>=2.32.5",
+]
