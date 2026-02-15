@@ -36,13 +36,19 @@ Windows Task Scheduler
 
 # Pipeline Features
 
-✔ Modular structure (Extract, Transform, Load separated)
-✔ Centralized logging (pipeline.log)
-✔ Error handling across stages
-✔ Timestamp column (scraped_at)
-✔ Append-based database loading (historical tracking)
-✔ CSV export
-✔ Automated execution
+Modular structure (Extract, Transform, Load separated)
+
+Centralized logging (pipeline.log)
+
+Error handling across stages
+
+Timestamp column (scraped_at)
+
+Append-based database loading (historical tracking)
+
+CSV export
+
+Automated execution
 
 # Database Design
 
@@ -294,6 +300,7 @@ Next goal: build an API-driven pipeline with orchestration and cloud deployment.
 GitHub: [link in comments]
 
 #DataEngineering #ETL #Python #DataAnalytics #OpenToOpportunities
+
 
 
 
