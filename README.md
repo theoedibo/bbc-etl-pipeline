@@ -7,6 +7,7 @@ The pipeline is designed using production-style principles including modular arc
 The pipeline executes successfully and logs execution details for monitoring and debugging purposes.
 
 # Objectives
+--
 
 Automate web data extraction
 
@@ -330,5 +331,6 @@ Next goal: build an API-driven pipeline with orchestration and cloud deployment.
 GitHub: [link in comments]
 
 #DataEngineering #ETL #Python #DataAnalytics #OpenToOpportunities
+
 
 
