@@ -120,12 +120,3 @@ The table uses append logic to preserve historical data across runs.
 * Containerize using Docker
 * Replace Windows Scheduler with workflow orchestration tool
 * Deploy on cloud (AWS/GCP)
-
-
-
-
-* I can help you write a LinkedIn project showcase post
-* Or design your next advanced ETL (crypto or health API based)
-* Or help you turn this into a CV bullet that passes ATS
-
-You’re moving fast now 💪🔥
