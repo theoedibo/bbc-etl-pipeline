@@ -1,5 +1,4 @@
-Project  Description
-
+#  Project  Description
 This project is a modular ETL (Extract, Transform, Load) pipeline that automatically scrapes news headlines from the BBC News website, cleans and structures the data using pandas, and stores the results in a SQLite database and CSV file.
 
 The pipeline is designed using production-style principles including modular architecture, logging, error handling, timestamping, and append-based data storage to maintain historical records.
