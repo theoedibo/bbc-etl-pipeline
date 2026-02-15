@@ -63,3 +63,8 @@ Containerize using Docker
 Replace Windows Scheduler with workflow orchestration tool
 
 Deploy on cloud (AWS/GCP)
+
+# Contact
+
+For collaborations or questions, reach out on www.linkedin.com/in/theophilus-edibo-7b857935a or edibotheophilus@gmail.com.
+
