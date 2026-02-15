@@ -6,7 +6,7 @@ The pipeline is designed using production-style principles including modular arc
 
 The pipeline executes successfully and logs execution details for monitoring and debugging purposes.
 
-Objectives
+# Objectives
 
 Automate web data extraction
 
@@ -18,7 +18,7 @@ Enable historical data storage via append logic
 
 Introduce logging for monitoring and reliability
 
-Architecture Overview
+# Architecture Overview
 Windows Task Scheduler
           ↓
         main.py
@@ -37,7 +37,7 @@ Windows Task Scheduler
           ↓
  SQLite DB + CSV Output
 
-Technologies Used
+# Technologies Used
 
 Python
 
@@ -53,7 +53,7 @@ Python logging module
 
 Windows Task Scheduler
 
-Pipeline Features
+# Pipeline Features
 
 ✔ Modular structure (Extract, Transform, Load separated)
 ✔ Centralized logging (pipeline.log)
@@ -63,7 +63,7 @@ Pipeline Features
 ✔ CSV export
 ✔ Automated execution
 
-Project Structure
+# Project Structure
 bbc-etl-pipeline/
 │
 ├── logs/
@@ -80,7 +80,7 @@ bbc-etl-pipeline/
 ├── requirements.txt
 └── README.md
 
-Database Design
+# Database Design
 
 Table: news_titles
 
@@ -330,4 +330,5 @@ Next goal: build an API-driven pipeline with orchestration and cloud deployment.
 GitHub: [link in comments]
 
 #DataEngineering #ETL #Python #DataAnalytics #OpenToOpportunities
+
 
